@@ -272,7 +272,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
+	#about-me .about-me__introduction, #about-me p {
 		width: 100%;
 	}
 }
@@ -337,6 +337,16 @@ input[type="submit"] {
 }
 
 @media all and (max-width: 650px) {
+	footer{
+		display: flex;
+		flex-direction: column;
+		gap:20px;
+		text-align: center;
+	}
+	#about{
+		flex-direction: column;
+
+	}
 	.top-header {
 		flex-direction: column;
 		padding-inline: 0;
