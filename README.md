@@ -7,7 +7,7 @@ Débogage et optimisation d'un site de photographe (Nina Carducci)
 1. Clonez le repo
 2. Ouvrir le fichier index.html : Voici le projet de Nina Carducci débuggué et optimisé !
 
-# Le rapport d'intervention est disponible
+# Le rapport d'intervention est disponible dans le repo 
 Voici le repo du site de Nina Carducci avant mon intervention : https://github.com/nina-carducci/nina-carducci.github.io
 
 
