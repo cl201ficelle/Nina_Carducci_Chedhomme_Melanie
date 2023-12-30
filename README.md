@@ -1,7 +1,8 @@
 # Projet_5
 Débogage et optimisation d'un site de photographe (Nina Carducci)
 
-![image](https://github.com/cl201ficelle/Nina_Carducci_Chedhomme_Melanie/assets/139238877/1d52957d-983f-4d6d-a0f9-8a56f39e68e9)
+![image](https://github.com/cl201ficelle/Nina_Carducci_Chedhomme_Melanie/assets/139238877/fb141490-b3e9-4651-ab48-b61b2f742d30)
+
 
 
 # Pour lancer le projet : 
